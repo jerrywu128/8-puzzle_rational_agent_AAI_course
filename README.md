@@ -1,4 +1,4 @@
-# 8-puzzle_rational_agent_AAI_course
+# 8-puzzle_rational_agent_AAI_course(learning how to use git command)
 ---
 ## please clone the file by yourself.
 
